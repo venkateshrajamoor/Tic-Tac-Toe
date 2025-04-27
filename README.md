@@ -50,4 +50,5 @@ Live Demo:
       Mobile-first Responsive Design
       
       Code Structuring for Game Development
-
+🧑‍💻 Author
+    This project was developed and submitted to UnifiedMentor.
