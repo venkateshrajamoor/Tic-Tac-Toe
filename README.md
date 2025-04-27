@@ -16,6 +16,12 @@ Live Demo:
     
     JavaScript (ES6) – Game logic, win/tie checking, and player interactions.
 
+    📦 How to Run Locally
+
+        git clone https://github.com/your-username/calculator.git
+        cd calculator
+        open index.html in browser
+
 🎯 Features
       🎯 Turn-based gameplay for two players.
       
