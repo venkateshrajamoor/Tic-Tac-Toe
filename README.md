@@ -16,7 +16,10 @@ Live Demo:
     
     JavaScript (ES6) – Game logic, win/tie checking, and player interactions.
 
-
+📦 How to Run Locally
+        git clone https://github.com/venkateshrajamoor/Tic-Tac-Toe.git
+        cd Tic-Tac-Toe
+        open index.html in browser
 
 🎯 Features
       🎯 Turn-based gameplay for two players.
