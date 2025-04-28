@@ -56,4 +56,4 @@ Live Demo:
       
       Code Structuring for Game Development
 🧑‍💻 Author
-    This project was developed and submitted to UnifiedMentor.
+    This project was developed and submitted as part of my internship with UnifiedMentor.
